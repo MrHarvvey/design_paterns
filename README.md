@@ -1,4 +1,4 @@
-# design_paterns
+# Design Paterns
 
 GitHub: Collection of design patterns and idioms
 
